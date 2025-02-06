@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects  
 
-### 🔹 **FinWiseCoach – AI-Powered Financial Assistant (Ongoing 🚀)**  
+### 🔹 **FinWise – AI-Powered Financial Assistant (Ongoing 🚀)**  
 💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.**  
 
 **🔹 Tech Stack:** Next.js, React, Node.js, Firebase, OpenAI GPT-4, Plaid API, Financial Modeling Prep API  
