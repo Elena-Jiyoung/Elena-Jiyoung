@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Hackathons & Awards
 <br>
-🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application** <br>
+🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application**<br>
 💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data. <br>
 <br>
 🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase <br>
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 ✅ Lost-Finder Matching System that enhances PSU’s existing lost-and-found process <br>
 🏆 Achievement: HackPSU Fall 2022 – 3rd Place in Nittany AI Challenge <br>
 🔗 [GitHub Repository](https://github.com/Elena-Jiyoung/NittanyFind) | 🎥 [Demo Video](https://youtu.be/lbnIrF9kA9k) | 📝[Project Documentation](https://devpost.com/software/nittany-locator)
-<br>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
