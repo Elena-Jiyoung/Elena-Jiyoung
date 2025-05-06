@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔹 \*\*FinWise – AI-Powered Financial Assistant \*\*
+### 🔹 FinWise – AI-Powered Financial Assistant
 
 [https://finwise-git-main-elena-chois-projects.vercel.app/](https://finwise-git-main-elena-chois-projects.vercel.app/)
 💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.**
