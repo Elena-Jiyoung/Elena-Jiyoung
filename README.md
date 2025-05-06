@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 🔹 ScholarFund – Decentralized Scholarship Platform \*\*
-<br>
+### 🔹 ScholarFund – Decentralized Scholarship Platform 
 [https://scholar-fund.vercel.app/](https://scholar-fund.vercel.app/) <br>
 💡 Revolutionizes the scholarship funding process using blockchain technology. 
 <br>
@@ -67,7 +66,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🔹 FinWise – AI-Powered Financial Assistant
-<br>
 [https://finwise-git-main-elena-chois-projects.vercel.app/](https://finwise-git-main-elena-chois-projects.vercel.app/) <br>
 💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.** <br>
 <br>
@@ -83,7 +81,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🔹 **LLM-Based TE Connectivity Chatbot – AI-Driven Machine Engineers Chatbot (Ongoing 🚀)**
-<br>
 💡 An AI-powered chatbot that retrieves and interprets information from machine manuals to assist TE Connectivity's engineers with maintenance, troubleshooting, and analysis. <br>
 <br>
 🔹 Tech Stack: GPT-4-mini, Llama/DeepSeek (TBD), HTML, CSS, JavaScript, Python Django, MongoDB (Transitioning to Local Storage), LangChain, RAG, ChromaDB <br>
@@ -128,7 +125,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Hackathons & Awards
 <br>
-🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application**
+**🥈 GROOP - AI-driven MBTI Personality Based Socializing Application ** <br>
 💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data. <br>
 <br>
 🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase <br>
