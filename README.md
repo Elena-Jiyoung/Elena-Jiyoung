@@ -33,7 +33,25 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects  
 
-### 🔹 **FinWise – AI-Powered Financial Assistant (Ongoing 🚀)**  
+### 🔹 ScholarFund – Decentralized Scholarship Platform **
+https://scholar-fund.vercel.app/
+💡 Revolutionizes the scholarship funding process using blockchain technology.
+ Revolutionizes the scholarship funding process using blockchain technology.
+
+🔹 Tech Stack: Next.js, React, Styled Components, Solidity, Thirdweb, Ethereum, IPFS (web3.storage), Vercel
+🔹 Key Features:
+✅ Wallet Authentication with Thirdweb and Metamask
+✅ Smart Contract Interactions (Read: view apps, funding status | Write: submit apps, donate, approve milestones)
+✅ Role-based Access for Scholars, Donors, and Admins
+✅ IPFS Integration for decentralized file storage
+✅ Gas-efficient Solidity Smart Contract for transparent fund tracking
+
+🔗 **[GitHub Repository](#https://github.com/Elena-Jiyoung/ScholarFund)** 
+
+---
+
+### 🔹 **FinWise – AI-Powered Financial Assistant **  
+https://finwise-git-main-elena-chois-projects.vercel.app/
 💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.**  
 
 **🔹 Tech Stack:** Next.js, React, Node.js, Firebase, OpenAI GPT-4, Plaid API, Financial Modeling Prep API  
@@ -43,7 +61,7 @@ Here are some ideas to get you started:
 ✅ **Goal Tracking with Gamification** (interactive financial habits formation)  
 ✅ **Emotion Detection & Sentiment Analysis for Personalized Advice**  
 
-<!--🔗 **[GitHub Repository](#)** -->  
+🔗 **[GitHub Repository](#https://github.com/Elena-Jiyoung/FinWise)** 
 
 ---
 
@@ -58,7 +76,7 @@ Here are some ideas to get you started:
 ✅ **Real-time AI-powered troubleshooting assistance**  
 ✅ **Scalable & Secure Storage** using **Local Storage and ChromaDB**  
 
-<!--🔗 **[GitHub Repository](#)** -->  
+🔗 **[GitHub Repository](#https://github.com/rudrabengali/TE-Connectivity-Chatbot)** 
 
 ---
 
@@ -84,30 +102,32 @@ Here are some ideas to get you started:
 ✅ **Global Appointment Accessibility** with enabling language and timezone options 
 ✅ **Cloud-based patient files management**  
 
-<!--🔗 **[GitHub Repository](#)** -->  
-<!---
+🔗 **[GitHub Repository](#https://github.com/jiwoongjeon/Felicity/tree/main)** 
+
 ## 🛠️ Hackathons & Awards 
-🥈 GROOP - AI-driven MBTI Personality Based socializing application
+🥈 GROOP - AI-driven MBTI Personality Based socializing application 
 💡 Developed an AI-driven tool that groups those with similar personalities  based on user habits and carbon footprint data.
 
-Tech Stack: Python, TensorFlow, OpenAI API, React.js, Flask, MongoDB
-Key Features:
+🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase
+🔹 Key Features:
 ✅ AI-powered carbon footprint tracker with personalized sustainability recommendations
 ✅ NLP-based chatbot for real-time sustainability Q&A
 ✅ Web dashboard visualizing eco-friendly habit-building progress
-Achievement: Finalist among 500+ teams at HackMIT 2024
-🔗 GitHub Repository | 🎥 Demo Video
+🏆 **Achievement: HackPSU Fall 2023 Overall 2nd Place | 2nd Place in Nittany AI | Best Use of Google Cloud
+🔗 GitHub Repository https://github.com/juhwani/GROOP  | 🎥 Demo Video https://youtu.be/R4BUHn4X1lk**
 
-🥈 Smart Health AI – PennApps 2023 (2nd Place in AI/ML Track)
-💡 Created an AI-driven medical assistant that helps users self-diagnose common health concerns and connects them with local clinics.
+🥈 Nittany Locator – AI-driven Image Recognition Lost and Found Website
+💡 Helps users find and match lost and found items on campus using image recognition and multi-stage filtering.
 
-Tech Stack: OpenAI GPT, FastAPI, Next.js, Firebase, AWS S3
-Key Features:
-✅ AI-powered symptom checker and medical chatbot
-✅ Integrated real-time clinic locator
-✅ Secure patient data handling with Firebase Authentication
-Achievement: 2nd place in the AI/ML Track at PennApps 2023
-🔗 GitHub Repository | 🎥 Demo Video -->
+🔹 Tech Stack: React, Node.js, Express.js, MySQL, OpenCV, Jupyter, Figma
+🔹 Key Features:
+✅ Multi-stage Matching based on category, location, date, and image classification
+✅ Image-to-text ML Model for automatic description generation
+✅ Used Market Integration to suggest alternative purchases for unclaimed items
+✅ Lost-Finder Matching System that enhances PSU’s existing lost-and-found process
+
+🏆 Achievement: HackPSU Fall 2022 – 3rd Place in Nittany AI Challenge
+🔗 GitHub Repository https://github.com/Elena-Jiyoung/NittanyFind | 🎥 Demo Video https://devpost.com/software/nittany-locator 
 ---
 
 ## 🛠️ Tech Stack & Skills  
