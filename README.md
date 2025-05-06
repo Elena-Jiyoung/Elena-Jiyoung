@@ -122,7 +122,9 @@ Here are some ideas to get you started:
 
 🔗 **[GitHub Repository](https://github.com/jiwoongjeon/Felicity/tree/main)**
 
+<br>
 ---
+<br>
 
 ## 🛠️ Hackathons & Awards
 <br>
@@ -136,7 +138,9 @@ Here are some ideas to get you started:
 ✅ Web dashboard visualizing eco-friendly habit-building progress <br>
 🏆 Achievement: HackPSU Fall 2023 Overall 2nd Place | 2nd Place in Nittany AI | Best Use of Google Cloud <br>
 🔗 [GitHub Repository](https://github.com/juhwani/GROOP) | 🎥 [Demo Video](https://youtu.be/R4BUHn4X1lk) | 📝[Project Documentation](https://devpost.com/software/groop-r7kmz4) <br>
+<br>
 ---
+<br>
 🥈 **Nittany Locator – AI-driven Image Recognition Lost and Found Website** <br>
 💡 Helps users find and match lost and found items on campus using image recognition and multi-stage filtering. <br>
 <br>
