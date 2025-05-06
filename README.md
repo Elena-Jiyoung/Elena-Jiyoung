@@ -169,10 +169,10 @@ Here are some ideas to get you started:
 
 ## 📬 Connect With Me!
 
-💼 **Let's connect and build something great!**
-🔗 **LinkedIn:** [linkedin.com/in/elena-choi](#)
-🌐 **Portfolio Website:** \[TBD]
-📫 **Email:** [elenajyc3@gmail.com](mailto:elenajyc3@gmail.com)
-📝 **Blog:** \[TBD]
+💼 **Let's connect and build something great!** <br>
+🔗 **LinkedIn:** [linkedin.com/in/elena-choi](#) <br>
+🌐 **Portfolio Website:** \[TBD] <br>
+📫 **Email:** [elenajyc3@gmail.com](mailto:elenajyc3@gmail.com) <br>
+📝 **Blog:** \[TBD] <br>
 
 ⚡ **Always looking for exciting collaborations in AI, software, and full-stack engineering!**
