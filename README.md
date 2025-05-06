@@ -50,63 +50,63 @@ Here are some ideas to get you started:
 ## 🚀 Featured Projects
 
 ### 🔹 ScholarFund – Decentralized Scholarship Platform \*\*
-
-[https://scholar-fund.vercel.app/](https://scholar-fund.vercel.app/)
-💡 Revolutionizes the scholarship funding process using blockchain technology.
-
-🔹 Tech Stack: Next.js, React, Styled Components, Solidity, Thirdweb, Ethereum, IPFS (web3.storage), Vercel
-🔹 Key Features:
-✅ Wallet Authentication with Thirdweb and Metamask
-✅ Smart Contract Interactions (Read: view apps, funding status | Write: submit apps, donate, approve milestones)
-✅ Role-based Access for Scholars, Donors, and Admins
-✅ IPFS Integration for decentralized file storage
-✅ Gas-efficient Solidity Smart Contract for transparent fund tracking
+<br>
+[https://scholar-fund.vercel.app/](https://scholar-fund.vercel.app/) <br>
+💡 Revolutionizes the scholarship funding process using blockchain technology. 
+<br>
+🔹 Tech Stack: Next.js, React, Styled Components, Solidity, Thirdweb, Ethereum, IPFS (web3.storage), Vercel <br>
+🔹 Key Features: <br>
+✅ Wallet Authentication with Thirdweb and Metamask <br>
+✅ Smart Contract Interactions (Read: view apps, funding status | Write: submit apps, donate, approve milestones) <br>
+✅ Role-based Access for Scholars, Donors, and Admins <br>
+✅ IPFS Integration for decentralized file storage <br>
+✅ Gas-efficient Solidity Smart Contract for transparent fund tracking <br>
 
 🔗 **[GitHub Repository](https://github.com/Elena-Jiyoung/ScholarFund)**
 
 ---
 
 ### 🔹 FinWise – AI-Powered Financial Assistant
-
-[https://finwise-git-main-elena-chois-projects.vercel.app/](https://finwise-git-main-elena-chois-projects.vercel.app/)
-💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.**
-
-🔹 Tech Stack: Next.js, React, Node.js, Firebase, OpenAI GPT-4, Plaid API, Financial Modeling Prep API
-🔹 Key Features:
-✅ Conversational AI Chatbot for financial coaching
-✅ Bank Transaction Insights with AI-powered categorization
-✅ Goal Tracking with Gamification (interactive financial habits formation)
-✅ Emotion Detection & Sentiment Analysis for Personalized Advice
+<br>
+[https://finwise-git-main-elena-chois-projects.vercel.app/](https://finwise-git-main-elena-chois-projects.vercel.app/) <br>
+💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.** <br>
+<br>
+🔹 Tech Stack: Next.js, React, Node.js, Firebase, OpenAI GPT-4, Plaid API, Financial Modeling Prep API <br>
+🔹 Key Features: <br>
+✅ Conversational AI Chatbot for financial coaching <br>
+✅ Bank Transaction Insights with AI-powered categorization <br>
+✅ Goal Tracking with Gamification (interactive financial habits formation) <br>
+✅ Emotion Detection & Sentiment Analysis for Personalized Advice <br>
 
 🔗 **[GitHub Repository](https://github.com/Elena-Jiyoung/FinWise)**
 
 ---
 
 ### 🔹 **LLM-Based TE Connectivity Chatbot – AI-Driven Machine Engineers Chatbot (Ongoing 🚀)**
-
-💡 An AI-powered chatbot that retrieves and interprets information from machine manuals to assist TE Connectivity's engineers with maintenance, troubleshooting, and analysis.
-
-🔹 Tech Stack: GPT-4-mini, Llama/DeepSeek (TBD), HTML, CSS, JavaScript, Python Django, MongoDB (Transitioning to Local Storage), LangChain, RAG, ChromaDB
-🔹 Key Features:
-✅ Conversational AI Chatbot for instant search within machine manuals
-✅ RAG-powered document search for precise retrieval
-✅ Vectorized manual embeddings for rapid lookup
-✅ Real-time AI-powered troubleshooting assistance
-✅ Scalable & Secure Storage using Local Storage and ChromaDB
+<br>
+💡 An AI-powered chatbot that retrieves and interprets information from machine manuals to assist TE Connectivity's engineers with maintenance, troubleshooting, and analysis. <br>
+<br>
+🔹 Tech Stack: GPT-4-mini, Llama/DeepSeek (TBD), HTML, CSS, JavaScript, Python Django, MongoDB (Transitioning to Local Storage), LangChain, RAG, ChromaDB <br>
+🔹 Key Features: <br>
+✅ Conversational AI Chatbot for instant search within machine manuals <br>
+✅ RAG-powered document search for precise retrieval <br>
+✅ Vectorized manual embeddings for rapid lookup <br>
+✅ Real-time AI-powered troubleshooting assistance <br>
+✅ Scalable & Secure Storage using Local Storage and ChromaDB <br>
 
 🔗 **[GitHub Repository](https://github.com/rudrabengali/TE-Connectivity-Chatbot)**
 
 ---
 
 ### 🔹 **SmartOCR – AI-Powered Document Processing System**
-
-📄 LLM-driven transcript processing system that automates text extraction, structuring, and error handling for university admissions.
-
-🔹 Tech Stack: GPT-4, Litestar, SQLAlchemy, MySQL, Vue 3, Azure, Docker
-🔹 Key Features:
-✅ OCR + AI Model for extracting structured data from transcripts
-✅ Database-driven pipeline for efficient transcript processing
-✅ Error-handling pipelines and User Dashboard for displaying statistics
+<br>
+📄 LLM-driven transcript processing system that automates text extraction, structuring, and error handling for university admissions. <br>
+<br>
+🔹 Tech Stack: GPT-4, Litestar, SQLAlchemy, MySQL, Vue 3, Azure, Docker <br>
+🔹 Key Features: <br>
+✅ OCR + AI Model for extracting structured data from transcripts <br>
+✅ Database-driven pipeline for efficient transcript processing <br>
+✅ Error-handling pipelines and User Dashboard for displaying statistics <br>
 
 ---
 
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Hackathons & Awards
 <br>
-🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application**<br>
+🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application**
 💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data. <br>
 <br>
 🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase <br>
