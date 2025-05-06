@@ -119,6 +119,35 @@ Here are some ideas to get you started:
 
 🔗 **[GitHub Repository](https://github.com/jiwoongjeon/Felicity/tree/main)**
 
+---
+
+
+🔹 18-Layer CNN – Image Classification for Computer Vision
+<br>
+📷 A deep convolutional neural network built for image classification tasks using MATLAB.
+
+🔹 Tech Stack: MATLAB, Image Processing Toolbox <br>
+🔹 Key Features: <br>
+✅ 18-layer CNN with normalization, convolution layers, ReLU, max pooling, and softmax classification <br>
+✅ Optimized feature extraction using MATLAB’s imfilter function <br>
+✅ Evaluated using confusion matrices and classification accuracy on test datasets <br>
+
+🔗 [GitHub Repository](https://github.com/Elena-Jiyoung/CMPEN454-Project-1)
+
+---
+
+
+🔹 3D Reconstruction & Epipolar Geometry – Stereo Vision Project <br>
+
+🎥 A computer vision project exploring camera calibration and depth reconstruction using stereo images. <br>
+
+🔹 Tech Stack: MATLAB, Linear Algebra, Camera Geometry <br>
+🔹 Key Features: <br>
+✅ Computed intrinsic/extrinsic parameters and projection matrices <br>
+✅ Implemented triangulation algorithms for 3D motion capture reconstruction <br>
+✅ Calculated fundamental matrices and analyzed epipolar geometry for depth estimation <br>
+
+🔗 [GitHub Repository](https://github.com/juhwani/GROOP](https://github.com/Elena-Jiyoung/CMPEN454-Project-2 )
 
 ---
 
