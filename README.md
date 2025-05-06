@@ -111,44 +111,44 @@ Here are some ideas to get you started:
 ---
 
 ### 🔹 **Telepossible – AI-Powered Remote Healthcare Platform**
-
+<br>
 🌍 NGO initiative that provides free medical services via AI-powered virtual consultations.
-
-🔹 Tech Stack: AWS S3, React.js, Node.js, MySQL, Socket.io, Postman
-🔹 Key Features:
-✅ Free Video Calls between doctors and patients
-✅ Global Appointment Accessibility with enabling language and timezone options
-✅ Cloud-based patient files management
+<br>
+🔹 Tech Stack: AWS S3, React.js, Node.js, MySQL, Socket.io, Postman <br>
+🔹 Key Features: <br>
+✅ Free Video Calls between doctors and patients <br>
+✅ Global Appointment Accessibility with enabling language and timezone options <br>
+✅ Cloud-based patient files management <br>
 
 🔗 **[GitHub Repository](https://github.com/jiwoongjeon/Felicity/tree/main)**
 
 ---
 
 ## 🛠️ Hackathons & Awards
-
-🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application**
-💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data.
-
-🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase
-🔹 Key Features:
-✅ AI-powered carbon footprint tracker with personalized sustainability recommendations
-✅ NLP-based chatbot for real-time sustainability Q\&A
-✅ Web dashboard visualizing eco-friendly habit-building progress
-🏆 Achievement: HackPSU Fall 2023 Overall 2nd Place | 2nd Place in Nittany AI | Best Use of Google Cloud
-🔗 [GitHub Repository](https://github.com/juhwani/GROOP) | 🎥 [Demo Video](https://youtu.be/R4BUHn4X1lk) | 📝[Project Documentation](https://devpost.com/software/groop-r7kmz4)
-
-🥈 **Nittany Locator – AI-driven Image Recognition Lost and Found Website**
-💡 Helps users find and match lost and found items on campus using image recognition and multi-stage filtering.
-
-🔹 Tech Stack: React, Node.js, Express.js, MySQL, OpenCV, Jupyter, Figma
-🔹 Key Features:
-✅ Multi-stage Matching based on category, location, date, and image classification
-✅ Image-to-text ML Model for automatic description generation
-✅ Used Market Integration to suggest alternative purchases for unclaimed items
-✅ Lost-Finder Matching System that enhances PSU’s existing lost-and-found process
-🏆 Achievement: HackPSU Fall 2022 – 3rd Place in Nittany AI Challenge
+<br>
+🥈 **GROOP - AI-driven MBTI Personality Based Socializing Application** <br>
+💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data. <br>
+<br>
+🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase <br>
+🔹 Key Features: <br>
+✅ AI-powered carbon footprint tracker with personalized sustainability recommendations <br>
+✅ NLP-based chatbot for real-time sustainability Q\&A <br> 
+✅ Web dashboard visualizing eco-friendly habit-building progress <br>
+🏆 Achievement: HackPSU Fall 2023 Overall 2nd Place | 2nd Place in Nittany AI | Best Use of Google Cloud <br>
+🔗 [GitHub Repository](https://github.com/juhwani/GROOP) | 🎥 [Demo Video](https://youtu.be/R4BUHn4X1lk) | 📝[Project Documentation](https://devpost.com/software/groop-r7kmz4) <br>
+---
+🥈 **Nittany Locator – AI-driven Image Recognition Lost and Found Website** <br>
+💡 Helps users find and match lost and found items on campus using image recognition and multi-stage filtering. <br>
+<br>
+🔹 Tech Stack: React, Node.js, Express.js, MySQL, OpenCV, Jupyter, Figma <br>
+🔹 Key Features: <br>
+✅ Multi-stage Matching based on category, location, date, and image classification <br>
+✅ Image-to-text ML Model for automatic description generation <br>
+✅ Used Market Integration to suggest alternative purchases for unclaimed items <br>
+✅ Lost-Finder Matching System that enhances PSU’s existing lost-and-found process <br>
+🏆 Achievement: HackPSU Fall 2022 – 3rd Place in Nittany AI Challenge <br>
 🔗 [GitHub Repository](https://github.com/Elena-Jiyoung/NittanyFind) | 🎥 [Demo Video](https://youtu.be/lbnIrF9kA9k) | 📝[Project Documentation](https://devpost.com/software/nittany-locator)
-
+<br>
 ---
 
 ## 🛠️ Tech Stack & Skills
