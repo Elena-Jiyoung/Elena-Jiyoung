@@ -125,7 +125,9 @@ Here are some ideas to get you started:
 
 ## 🛠️ Hackathons & Awards
 <br>
-**🥈 GROOP - AI-driven MBTI Personality Based Socializing Application ** <br>
+
+**🥈 GROOP - AI-driven MBTI Personality Based Socializing Application ** 
+<br>
 💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data. <br>
 <br>
 🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase <br>
