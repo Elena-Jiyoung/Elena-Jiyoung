@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ---
 
 ## 🏅 Highlights & Achievements
-
+* 🏆 **TE AI Competition:** Best Business Impact
 * 🥈 **HackPSU Fall 2023:** 2nd Place Overall – Project: GROOP
 * 🥈 **HackPSU Fall 2023:** 2nd Place in Nittany AI – Project: GROOP
-* 🥈 **HackPSU Fall 2023:** Best Usage of Google Cloud 1st Place – Project: GROOP
+* 🥇 **HackPSU Fall 2023:** Best Usage of Google Cloud 1st Place – Project: GROOP
 * 🥉 **HackPSU Fall 2022:** 3rd Place in Nittany AI – Project: Nittany Locator
 * 📣 **Featured by Nittany AI Alliance** for SmartOCR and leadership in AI projects
 
