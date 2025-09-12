@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Elena Choi!
 
-🚀 **Aspiring Software Engineer | AI & NLP Enthusiast | Full-Stack Developer**
+🚀 **Current Full Stack Developer at Startup | Aspiring Software Engineer | AI Enthusiast**
 📍 **Penn State University | Computer Science Major & Mathematics Minor**
 💡 **Passionate about AI-driven solutions, NLP, full-stack development, and impactful technology for social good.**
 
