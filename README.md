@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔹 **LLM-Based TE Connectivity Chatbot – AI-Driven Machine Engineers Chatbot (Ongoing 🚀)**
+### 🔹 **LLM-Based TE Connectivity Chatbot – AI-Driven Machine Engineers Chatbot (Best Business Impact Award at TE AI Cup Competition)**
 💡 An AI-powered chatbot that retrieves and interprets information from machine manuals to assist TE Connectivity's engineers with maintenance, troubleshooting, and analysis. <br>
 <br>
 🔹 Tech Stack: GPT-4-mini, Llama/DeepSeek (TBD), HTML, CSS, JavaScript, Python Django, MongoDB (Transitioning to Local Storage), LangChain, RAG, ChromaDB <br>
