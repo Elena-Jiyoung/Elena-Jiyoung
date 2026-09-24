@@ -15,50 +15,50 @@ CS @ Penn State · Math minor · Full-stack developer at a startup
 
 </div>
 
-🟢 **Open to:** software engineering & AI engineering internships and new-grad roles<br>
-🔨 **Building:** ConflictDesk, a conflict-aware RAG agent that flags when two source documents disagree<br>
-💡 **Interested in:** generative AI, NLP, fintech, and technology for social good
+**Open to:** software engineering & AI engineering internships and new-grad roles<br>
+**Building:** ConflictDesk, a conflict-aware RAG agent that flags when two source documents disagree<br>
+**Interested in:** generative AI, NLP, fintech, and technology for social good
 
 ---
 
-## 🏅 Highlights
+## Highlights
 
-- 🥇 **TE AI Cup:** Best Business Impact (RAG chatbot over machine manuals)
-- 🥈 **HackPSU Fall 2023:** 2nd Place Overall · 2nd Place Nittany AI · 1st Place Best Use of Google Cloud (GROOP)
-- 🥉 **HackPSU Fall 2022:** 3rd Place Nittany AI (Nittany Locator)
-- 📣 **Featured by Nittany AI Alliance** as team lead for SmartOCR
+- **TE AI Cup:** Best Business Impact (RAG chatbot over machine manuals)
+- **HackPSU Fall 2023:** 2nd Place Overall · 2nd Place Nittany AI · 1st Place Best Use of Google Cloud (GROOP)
+- **HackPSU Fall 2022:** 3rd Place Nittany AI (Nittany Locator)
+- **Featured by Nittany AI Alliance** as team lead for SmartOCR
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Links |
 |---|---|---|
 | **FinWise** | AI personal-finance coach with bank-transaction insights, emotion-aware advice, and gamified savings goals · *Next.js, GPT-4, Plaid, Firebase* | [Live](https://finwise-git-main-elena-chois-projects.vercel.app/) · [Code](https://github.com/Elena-Jiyoung/FinWise) |
 | **ScholarFund** | Decentralized scholarship platform with wallet auth, role-based access, and milestone-based payouts · *Next.js, Solidity, Thirdweb, IPFS* | [Live](https://scholar-fund.vercel.app/) · [Code](https://github.com/Elena-Jiyoung/ScholarFund) |
-| **TE Connectivity Chatbot** 🏆 | RAG chatbot that answers engineers' maintenance and troubleshooting questions from machine manuals · *LangChain, ChromaDB, Django* | [Code](https://github.com/rudrabengali/TE-Connectivity-Chatbot) |
-| **SmartOCR** | LLM-driven transcript extraction and structuring for university admissions · *GPT-4, Litestar, Vue 3, Azure, Docker* | — |
+| **TE Connectivity Chatbot** | Best Business Impact at the TE AI Cup. RAG chatbot that answers engineers' maintenance and troubleshooting questions from machine manuals · *LangChain, ChromaDB, Django* | [Code](https://github.com/rudrabengali/TE-Connectivity-Chatbot) |
+| **SmartOCR** | LLM-driven transcript extraction and structuring for university admissions · *GPT-4, Litestar, Vue 3, Azure, Docker* | |
 
 <details>
-<summary><b>🛠️ More hackathon projects</b></summary>
+<summary><b>More hackathon projects</b></summary>
 <br>
 
-**🥈 GROOP: AI-driven personality-based socializing app**<br>
+**GROOP: AI-driven personality-based socializing app**<br>
 Groups people with similar personalities using their habits and carbon-footprint data, with an NLP sustainability chatbot and a habit-tracking dashboard.<br>
 *Django, Generative AI, React, Firebase*<br>
-🏆 HackPSU Fall 2023: 2nd Overall · 2nd Nittany AI · Best Use of Google Cloud<br>
+HackPSU Fall 2023: 2nd Overall, 2nd Nittany AI, Best Use of Google Cloud<br>
 [Code](https://github.com/juhwani/GROOP) · [Demo](https://youtu.be/R4BUHn4X1lk) · [Devpost](https://devpost.com/software/groop-r7kmz4)
 
-**🥉 Nittany Locator: AI lost-and-found for campus**<br>
+**Nittany Locator: AI lost-and-found for campus**<br>
 Matches lost and found items using image recognition plus category, location, and date filtering, and generates item descriptions from photos.<br>
 *React, Node.js, Express, MySQL, OpenCV*<br>
-🏆 HackPSU Fall 2022: 3rd Place Nittany AI Challenge<br>
+HackPSU Fall 2022: 3rd Place, Nittany AI Challenge<br>
 [Code](https://github.com/Elena-Jiyoung/NittanyFind) · [Demo](https://youtu.be/lbnIrF9kA9k) · [Devpost](https://devpost.com/software/nittany-locator)
 
 </details>
 
 <details>
-<summary><b>📂 Other projects</b></summary>
+<summary><b>Other projects</b></summary>
 <br>
 
 **Telepossible: remote healthcare platform (NGO)**<br>
@@ -76,7 +76,7 @@ Camera calibration, triangulation for 3D motion-capture reconstruction, and fund
 </details>
 
 <details>
-<summary><b>🧰 Full skill list</b></summary>
+<summary><b>Full skill list</b></summary>
 <br>
 
 - **Languages:** Python, JavaScript, TypeScript, C, Java, SQL, R, MATLAB
@@ -89,7 +89,7 @@ Camera calibration, triangulation for 3D motion-capture reconstruction, and fund
 
 ---
 
-## ⚡ Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
