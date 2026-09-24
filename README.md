@@ -92,6 +92,11 @@ Camera calibration, triangulation for 3D motion-capture reconstruction, and fund
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/Elena-Jiyoung/Elena-Jiyoung/pull/4) in [Elena-Jiyoung/Elena-Jiyoung](https://github.com/Elena-Jiyoung/Elena-Jiyoung)
+2. 💪 Opened PR [#4](https://github.com/Elena-Jiyoung/Elena-Jiyoung/pull/4) in [Elena-Jiyoung/Elena-Jiyoung](https://github.com/Elena-Jiyoung/Elena-Jiyoung)
+3. 🎉 Merged PR [#3](https://github.com/Elena-Jiyoung/Elena-Jiyoung/pull/3) in [Elena-Jiyoung/Elena-Jiyoung](https://github.com/Elena-Jiyoung/Elena-Jiyoung)
+4. 💪 Opened PR [#3](https://github.com/Elena-Jiyoung/Elena-Jiyoung/pull/3) in [Elena-Jiyoung/Elena-Jiyoung](https://github.com/Elena-Jiyoung/Elena-Jiyoung)
+5. 🎉 Merged PR [#2](https://github.com/Elena-Jiyoung/Elena-Jiyoung/pull/2) in [Elena-Jiyoung/Elena-Jiyoung](https://github.com/Elena-Jiyoung/Elena-Jiyoung)
 <!--END_SECTION:activity-->
 
 <div align="center">
