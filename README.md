@@ -1,212 +1,106 @@
+<div align="center">
 
+# Hi, I'm Elena Choi 👋
 
-<!--
-**Elena-Jiyoung/Elena-Jiyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer building AI tools that solve real problems**<br>
+CS @ Penn State · Math minor · Full-stack developer at a startup
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Add your LinkedIn: replace YOUR-HANDLE and remove these comment markers
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 -->
-<!--
-**Elena-Jiyoung/Elena-Jiyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elenajyc3@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Elena-Jiyoung&color=blue&style=flat)
 
-# 👋 Hi there, I'm Elena Choi!
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,django,mysql,mongodb,firebase,aws,azure,docker,pytorch&perline=14" alt="Tech stack" />
 
-🚀 **Current Full Stack Developer at Startup | Aspiring Software Engineer | AI Enthusiast**
-📍 **Penn State University | Computer Science Major & Mathematics Minor**
-💡 **Passionate about AI-driven solutions, NLP, full-stack development, and impactful technology for social good.**
+</div>
+
+🟢 **Open to:** software engineering & AI engineering internships and new-grad roles<br>
+🔨 **Building:** ConflictDesk, a conflict-aware RAG agent that flags when two source documents disagree<br>
+💡 **Interested in:** generative AI, NLP, fintech, and technology for social good
 
 ---
 
-## 🏅 Highlights & Achievements
-* 🏆 **TE AI Competition:** Best Business Impact
-* 🥈 **HackPSU Fall 2023:** 2nd Place Overall – Project: GROOP
-* 🥈 **HackPSU Fall 2023:** 2nd Place in Nittany AI – Project: GROOP
-* 🥇 **HackPSU Fall 2023:** Best Usage of Google Cloud 1st Place – Project: GROOP
-* 🥉 **HackPSU Fall 2022:** 3rd Place in Nittany AI – Project: Nittany Locator
-* 📣 **Featured by Nittany AI Alliance** for SmartOCR and leadership in AI projects
+## 🏅 Highlights
 
----
-
-## 🌟 About Me
-
-* 💡 I love building **AI-powered applications** that drive **social impact, financial literacy, and automation.**
-* 💻 Experienced in **Software Development, Full-Stack Engineering, AI/ML, and NLP Chatbot Systems.**
-* 🚀 Former **Nittany AI Alliance Team Lead** | Led **SmartOCR, an AI-driven document processing system.**
-* 📈 Passionate about **fintech, sustainability, and generative AI applications.**
-* 🌎 International student, **adventurous problem solver, and lifelong learner!**
-* 📊 Recently completed a course in **Computer Vision** and built projects involving image processing and 3D vision.
+- 🥇 **TE AI Cup:** Best Business Impact (RAG chatbot over machine manuals)
+- 🥈 **HackPSU Fall 2023:** 2nd Place Overall · 2nd Place Nittany AI · 1st Place Best Use of Google Cloud (GROOP)
+- 🥉 **HackPSU Fall 2022:** 3rd Place Nittany AI (Nittany Locator)
+- 📣 **Featured by Nittany AI Alliance** as team lead for SmartOCR
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 ScholarFund – Decentralized Scholarship Platform 
-[https://scholar-fund.vercel.app/](https://scholar-fund.vercel.app/) <br>
-💡 Revolutionizes the scholarship funding process using blockchain technology. 
-<br>
-🔹 Tech Stack: Next.js, React, Styled Components, Solidity, Thirdweb, Ethereum, IPFS (web3.storage), Vercel <br>
-🔹 Key Features: <br>
-✅ Wallet Authentication with Thirdweb and Metamask <br>
-✅ Smart Contract Interactions (Read: view apps, funding status | Write: submit apps, donate, approve milestones) <br>
-✅ Role-based Access for Scholars, Donors, and Admins <br>
-✅ IPFS Integration for decentralized file storage <br>
-✅ Gas-efficient Solidity Smart Contract for transparent fund tracking <br>
+| Project | What it does | Links |
+|---|---|---|
+| **FinWise** | AI personal-finance coach with bank-transaction insights, emotion-aware advice, and gamified savings goals · *Next.js, GPT-4, Plaid, Firebase* | [Live](https://finwise-git-main-elena-chois-projects.vercel.app/) · [Code](https://github.com/Elena-Jiyoung/FinWise) |
+| **ScholarFund** | Decentralized scholarship platform with wallet auth, role-based access, and milestone-based payouts · *Next.js, Solidity, Thirdweb, IPFS* | [Live](https://scholar-fund.vercel.app/) · [Code](https://github.com/Elena-Jiyoung/ScholarFund) |
+| **TE Connectivity Chatbot** 🏆 | RAG chatbot that answers engineers' maintenance and troubleshooting questions from machine manuals · *LangChain, ChromaDB, Django* | [Code](https://github.com/rudrabengali/TE-Connectivity-Chatbot) |
+| **SmartOCR** | LLM-driven transcript extraction and structuring for university admissions · *GPT-4, Litestar, Vue 3, Azure, Docker* | — |
 
-🔗 **[GitHub Repository](https://github.com/Elena-Jiyoung/ScholarFund)**
+<details>
+<summary><b>🛠️ More hackathon projects</b></summary>
+<br>
+
+**🥈 GROOP: AI-driven personality-based socializing app**<br>
+Groups people with similar personalities using their habits and carbon-footprint data, with an NLP sustainability chatbot and a habit-tracking dashboard.<br>
+*Django, Generative AI, React, Firebase*<br>
+🏆 HackPSU Fall 2023: 2nd Overall · 2nd Nittany AI · Best Use of Google Cloud<br>
+[Code](https://github.com/juhwani/GROOP) · [Demo](https://youtu.be/R4BUHn4X1lk) · [Devpost](https://devpost.com/software/groop-r7kmz4)
+
+**🥉 Nittany Locator: AI lost-and-found for campus**<br>
+Matches lost and found items using image recognition plus category, location, and date filtering, and generates item descriptions from photos.<br>
+*React, Node.js, Express, MySQL, OpenCV*<br>
+🏆 HackPSU Fall 2022: 3rd Place Nittany AI Challenge<br>
+[Code](https://github.com/Elena-Jiyoung/NittanyFind) · [Demo](https://youtu.be/lbnIrF9kA9k) · [Devpost](https://devpost.com/software/nittany-locator)
+
+</details>
+
+<details>
+<summary><b>📂 Other projects</b></summary>
+<br>
+
+**Telepossible: remote healthcare platform (NGO)**<br>
+Free video consultations between doctors and patients, with language and timezone options and cloud-based patient files.<br>
+*React, Node.js, Socket.io, MySQL, AWS S3* · [Code](https://github.com/jiwoongjeon/Felicity/tree/main)
+
+**18-Layer CNN: image classification**<br>
+Convolutional neural network with normalization, ReLU, max pooling, and softmax, evaluated with confusion matrices.<br>
+*MATLAB* · [Code](https://github.com/Elena-Jiyoung/CMPEN454-Project-1)
+
+**3D Reconstruction & Epipolar Geometry**<br>
+Camera calibration, triangulation for 3D motion-capture reconstruction, and fundamental-matrix estimation for depth.<br>
+*MATLAB* · [Code](https://github.com/Elena-Jiyoung/CMPEN454-Project-2)
+
+</details>
+
+<details>
+<summary><b>🧰 Full skill list</b></summary>
+<br>
+
+- **Languages:** Python, JavaScript, TypeScript, C, Java, SQL, R, MATLAB
+- **AI/ML:** OpenAI GPT, LangChain, RAG, NLP, TensorFlow, PyTorch, scikit-learn, Llama
+- **Full-stack:** Next.js, React, Node.js, Express, Django, Firebase, SQLAlchemy
+- **Cloud & DevOps:** AWS (S3, EC2), Azure, Docker, GitHub Actions
+- **Databases:** MySQL, MongoDB, Firestore, ChromaDB
+
+</details>
 
 ---
 
-### 🔹 FinWise – AI-Powered Financial Assistant
-[https://finwise-git-main-elena-chois-projects.vercel.app/](https://finwise-git-main-elena-chois-projects.vercel.app/) <br>
-💰 AI-driven personal finance chatbot that provides **budgeting insights, emotion-aware financial guidance, and gamified savings tracking.** <br>
-<br>
-🔹 Tech Stack: Next.js, React, Node.js, Firebase, OpenAI GPT-4, Plaid API, Financial Modeling Prep API <br>
-🔹 Key Features: <br>
-✅ Conversational AI Chatbot for financial coaching <br>
-✅ Bank Transaction Insights with AI-powered categorization <br>
-✅ Goal Tracking with Gamification (interactive financial habits formation) <br>
-✅ Emotion Detection & Sentiment Analysis for Personalized Advice <br>
+## ⚡ Recent Activity
 
-🔗 **[GitHub Repository](https://github.com/Elena-Jiyoung/FinWise)**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
----
+<div align="center">
 
-### 🔹 **LLM-Based TE Connectivity Chatbot – AI-Driven Machine Engineers Chatbot (Best Business Impact Award at TE AI Cup Competition)**
-💡 An AI-powered chatbot that retrieves and interprets information from machine manuals to assist TE Connectivity's engineers with maintenance, troubleshooting, and analysis. <br>
-<br>
-🔹 Tech Stack: GPT-4-mini, Llama/DeepSeek (TBD), HTML, CSS, JavaScript, Python Django, MongoDB (Transitioning to Local Storage), LangChain, RAG, ChromaDB <br>
-🔹 Key Features: <br>
-✅ Conversational AI Chatbot for instant search within machine manuals <br>
-✅ RAG-powered document search for precise retrieval <br>
-✅ Vectorized manual embeddings for rapid lookup <br>
-✅ Real-time AI-powered troubleshooting assistance <br>
-✅ Scalable & Secure Storage using Local Storage and ChromaDB <br>
+<img src="https://streak-stats.demolab.com?user=Elena-Jiyoung&theme=transparent&hide_border=true" alt="GitHub streak" />
 
-🔗 **[GitHub Repository](https://github.com/rudrabengali/TE-Connectivity-Chatbot)**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elena-Jiyoung/Elena-Jiyoung/output/snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Elena-Jiyoung/Elena-Jiyoung/output/snake.svg">
+</picture>
 
----
-
-### 🔹 **SmartOCR – AI-Powered Document Processing System**
-<br>
-📄 LLM-driven transcript processing system that automates text extraction, structuring, and error handling for university admissions. <br>
-<br>
-🔹 Tech Stack: GPT-4, Litestar, SQLAlchemy, MySQL, Vue 3, Azure, Docker <br>
-🔹 Key Features: <br>
-✅ OCR + AI Model for extracting structured data from transcripts <br>
-✅ Database-driven pipeline for efficient transcript processing <br>
-✅ Error-handling pipelines and User Dashboard for displaying statistics <br>
-
----
-
-### 🔹 **Telepossible – AI-Powered Remote Healthcare Platform**
-<br>
-🌍 NGO initiative that provides free medical services via AI-powered virtual consultations.
-<br>
-🔹 Tech Stack: AWS S3, React.js, Node.js, MySQL, Socket.io, Postman <br>
-🔹 Key Features: <br>
-✅ Free Video Calls between doctors and patients <br>
-✅ Global Appointment Accessibility with enabling language and timezone options <br>
-✅ Cloud-based patient files management <br>
-
-🔗 **[GitHub Repository](https://github.com/jiwoongjeon/Felicity/tree/main)**
-
----
-
-
-🔹 18-Layer CNN – Image Classification for Computer Vision
-<br>
-📷 A deep convolutional neural network built for image classification tasks using MATLAB.
-
-🔹 Tech Stack: MATLAB, Image Processing Toolbox <br>
-🔹 Key Features: <br>
-✅ 18-layer CNN with normalization, convolution layers, ReLU, max pooling, and softmax classification <br>
-✅ Optimized feature extraction using MATLAB’s imfilter function <br>
-✅ Evaluated using confusion matrices and classification accuracy on test datasets <br>
-
-🔗 [GitHub Repository](https://github.com/Elena-Jiyoung/CMPEN454-Project-1)
-
----
-
-
-🔹 3D Reconstruction & Epipolar Geometry – Stereo Vision Project <br>
-
-🎥 A computer vision project exploring camera calibration and depth reconstruction using stereo images. <br>
-
-🔹 Tech Stack: MATLAB, Linear Algebra, Camera Geometry <br>
-🔹 Key Features: <br>
-✅ Computed intrinsic/extrinsic parameters and projection matrices <br>
-✅ Implemented triangulation algorithms for 3D motion capture reconstruction <br>
-✅ Calculated fundamental matrices and analyzed epipolar geometry for depth estimation <br>
-
-🔗 [GitHub Repository](https://github.com/juhwani/GROOP](https://github.com/Elena-Jiyoung/CMPEN454-Project-2 )
-
----
-
-
-## 🛠️ Hackathons & Awards
-<br>
-
-**🥈 GROOP - AI-driven MBTI Personality Based Socializing Application ** 
-<br>
-💡 Developed an AI-driven tool that groups those with similar personalities based on user habits and carbon footprint data. <br>
-<br>
-🔹 Tech Stack: Python Django, Generative AI, React.js, Firebase <br>
-🔹 Key Features: <br>
-✅ AI-powered carbon footprint tracker with personalized sustainability recommendations <br>
-✅ NLP-based chatbot for real-time sustainability Q\&A <br> 
-✅ Web dashboard visualizing eco-friendly habit-building progress <br>
-🏆 Achievement: HackPSU Fall 2023 Overall 2nd Place | 2nd Place in Nittany AI | Best Use of Google Cloud <br>
-🔗 [GitHub Repository](https://github.com/juhwani/GROOP) | 🎥 [Demo Video](https://youtu.be/R4BUHn4X1lk) | 📝[Project Documentation](https://devpost.com/software/groop-r7kmz4) <br>
-
-
----
-
-
-🥈 **Nittany Locator – AI-driven Image Recognition Lost and Found Website** <br>
-💡 Helps users find and match lost and found items on campus using image recognition and multi-stage filtering. <br>
-<br>
-🔹 Tech Stack: React, Node.js, Express.js, MySQL, OpenCV, Jupyter, Figma <br>
-🔹 Key Features: <br>
-✅ Multi-stage Matching based on category, location, date, and image classification <br>
-✅ Image-to-text ML Model for automatic description generation <br>
-✅ Used Market Integration to suggest alternative purchases for unclaimed items <br>
-✅ Lost-Finder Matching System that enhances PSU’s existing lost-and-found process <br>
-🏆 Achievement: HackPSU Fall 2022 – 3rd Place in Nittany AI Challenge <br>
-🔗 [GitHub Repository](https://github.com/Elena-Jiyoung/NittanyFind) | 🎥 [Demo Video](https://youtu.be/lbnIrF9kA9k) | 📝[Project Documentation](https://devpost.com/software/nittany-locator)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming & AI/ML
-
-* **Languages:** Python, JavaScript, TypeScript, C, Java, SQL, R, MATLAB
-* **AI/ML:** OpenAI GPT, LangChain, NLP, TensorFlow, PyTorch, scikit-learn, RAG, Llama, OpenAI Embedding
-* **Full-Stack:** Next.js, React.js, Node.js, Express.js, Django, Firebase, SQLAlchemy
-
-### ☁️ DevOps & Cloud
-
-* **Cloud & Containers:** AWS (S3, EC2), Azure, Docker
-* **Databases:** MySQL, MongoDB, Firebase Firestore
-* **Version Control & CI/CD:** Git, GitHub, GitHub Actions
-
----
-
-## 📬 Connect With Me!
-
-💼 **Let's connect and build something great!** <br>
-🔗 **LinkedIn:** [linkedin.com/in/elena-choi](#) <br>
-🌐 **Portfolio Website:** \[TBD] <br>
-📫 **Email:** [elenajyc3@gmail.com](mailto:elenajyc3@gmail.com) <br>
-📝 **Blog:** \[TBD] <br>
-
-⚡ **Always looking for exciting collaborations in AI, software, and full-stack engineering!**
+</div>
