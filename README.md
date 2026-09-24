@@ -98,9 +98,4 @@ Camera calibration, triangulation for 3D motion-capture reconstruction, and fund
 
 <img src="https://streak-stats.demolab.com?user=Elena-Jiyoung&theme=transparent&hide_border=true" alt="GitHub streak" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elena-Jiyoung/Elena-Jiyoung/output/snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Elena-Jiyoung/Elena-Jiyoung/output/snake.svg">
-</picture>
-
 </div>
