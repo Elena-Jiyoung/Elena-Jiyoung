@@ -3,7 +3,7 @@
 # Hi, I'm Elena Choi 👋
 
 **Full-stack developer building AI tools that solve real problems**<br>
-CS @ Penn State · Math minor · Full-stack developer at a startup
+CS @ Penn State · Math minor · Ex Full-stack developer at a startup
 
 <!-- Add your LinkedIn: replace YOUR-HANDLE and remove these comment markers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
